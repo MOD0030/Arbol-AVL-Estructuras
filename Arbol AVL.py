@@ -1,5 +1,6 @@
 import sys
-
+#Miguel Ángel Aguilar Rodríguez – 2240030
+#Juan David Mejía Fragoso – 2240085
 # Clase que representa un nodo del árbol AVL
 class Node:
     def __init__(self, value):
